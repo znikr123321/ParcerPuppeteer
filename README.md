@@ -8,6 +8,6 @@ Test task for HH;
   
 2 - run code and wait 40sec;
 
-that parcer for this site https://www.dns-shop.ru/catalog/17a8d26216404e77/vstraivaemye-xolodilniki/;
+this parcer for this site https://www.dns-shop.ru/catalog/17a8d26216404e77/vstraivaemye-xolodilniki/;
 
 my telegram nickname GgGgG1346
